@@ -35,8 +35,8 @@ https://archive.ics.uci.edu/dataset/296/diabetes+130+us+hospitals+for+years+1999
 - Random Forest
 
 ## 7. Project Structure
-- `notebooks/` – Google Colab notebook containing data preprocessing, model training and evaluation.
-- `reports/` – Final project report.
+- `notebook/` – Google Colab notebook containing data preprocessing, model training and evaluation.
+- `report/` – Final project report.
 - `data/` – Dataset information and download instructions.
 
 ## 8. Model Evaluation
